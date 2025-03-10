@@ -11,6 +11,7 @@ const categories = [
         link: "/coding", 
         class: "coding", 
         links: [
+        { name: "Github", url: "https://github.com/ZAViking" },
         { name: "JavaScript", url: "/coding/javascript" },
         { name: "Python", url: "/coding/python" },
         { name: "Vue.js", url: "/coding/vue" }
