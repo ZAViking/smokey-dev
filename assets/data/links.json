@@ -1,0 +1,23 @@
+{
+    "RPG": [
+      { "title": "Cyberpunk 2077", "link": "https://www.cyberpunk.net" },
+      { "title": "Elden Ring", "link": "https://en.bandainamcoent.eu/elden-ring" },
+      { "title": "The Witcher 3", "link": "https://thewitcher.com" }
+    ],
+    "FPS": [
+      { "title": "Call of Duty", "link": "https://www.callofduty.com" },
+      { "title": "Battlefield 2042", "link": "https://www.ea.com/games/battlefield" },
+      { "title": "Halo Infinite", "link": "https://www.halowaypoint.com" }
+    ],
+    "Strategy": [
+      { "title": "Age of Empires IV", "link": "https://www.ageofempires.com" },
+      { "title": "Civilization VI", "link": "https://civilization.com" },
+      { "title": "Total War: Warhammer III", "link": "https://www.totalwar.com" }
+    ],
+    "Books": [
+      { "title": "Dune", "link": "https://www.dunenovels.com" },
+      { "title": "The Lord of the Rings", "link": "https://www.lordoftherings.com" },
+      { "title": "The Witcher", "link": "https://thewitcher.com" }
+    ]
+  }
+  

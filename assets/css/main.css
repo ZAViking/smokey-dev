@@ -1,0 +1,65 @@
+/* --- Global Styles --- */
+body {
+    background-color: #1a1a1a; /* Dark background */
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* --- Grid Layout for Blocks --- */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  /* --- Block Styling --- */
+  .block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    height: 180px;
+    background-color: gray; /* Default color */
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* --- Hover Effect --- */
+  .block:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(255, 255, 255, 0.2);
+  }
+  
+  /* --- Category Colors --- */
+  .block.coding { background-color: #3498db; }  /* Blue */
+  .block.gaming { background-color: #e74c3c; }  /* Red */
+  .block.cooking { background-color: #f1c40f; }  /* Yellow */
+  .block.movies { background-color: #9b59b6; }  /* Purple */
+  .block.music { background-color: #2ecc71; }  /* Green */
+  .block.fitness { background-color: #e91e63; }  /* Pink */
+  .block.travel { background-color: #f39c12; }  /* Orange */
+  .block.tech { background-color: #34495e; }  /* Dark Blue */
+  .block.books { background-color: #16a085; }  /* Teal */
+  
+  /* --- Icon Styling --- */
+  .block-icon {
+    font-size: 4rem;
+    color: white;
+  }
+  
+  /* --- Category Text (Below the Block) --- */
+  .block-text {
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    margin-top: 10px;
+    padding-left: 10px;
+    text-align: left;
+  }
+  
