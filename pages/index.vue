@@ -24,6 +24,7 @@ const categories = [
         class: "gaming", 
         links: [
             { name: "PC Games", url: "/gaming/pc" },
+            { name: "PC Games", url: "/gaming/pc" },
             { name: "Console Games", url: "/gaming/console" }
         ]
     },
