@@ -13,7 +13,7 @@ const categories = [
         links: [
           { name: "Github", url: "https://github.com/ZAViking" },
           { name: "MyNinja", url: "https://myninja.ai/" },
-          { name: "Python", url: "/coding/python" },
+          { name: "SVGL", url: "https://svgl.app/" },
           { name: "Vue.js", url: "/coding/vue" },
           { name: "Java: Project for beginners", url:"https://www.freecodecamp.org/news/javascript-projects-for-beginners/?ref=dailydev#heading-how-to-create-a-review-carousel" },
           { name: "Automate code commenting", url:"https://blog.logrocket.com/automate-code-commenting-using-vs-code-ollama/?ref=dailydev" },
